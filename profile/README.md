@@ -1,190 +1,268 @@
 <div align="center">
 
-<img width="100%" src="./assets/risheh-hero.svg" alt="RISHEH — We engineer connected growth" />
+<a href="https://www.rishehcompany.ir">
+  <img width="100%" src="https://raw.githubusercontent.com/rishehoffice/.github/main/profile/assets/risheh-hero.svg" alt="RISHEH — We engineer connected growth. Original forest-green and deep-navy brand artwork." />
+</a>
 
 <br />
 
-**Independent digital systems studio · Strategy × Product × Engineering × Intelligence**
+<h1>🌱 RISHEH</h1>
 
-*We don't believe in accidental growth. We design the systems behind sustainable business progress.*
+<strong>STRATEGY × PRODUCT × ENGINEERING × INTELLIGENCE</strong>
 
-[**Explore industry solutions ↗**](../docs/INDUSTRIES_AND_SERVICES.md) &nbsp; · &nbsp; [**Read our case studies ↗**](../case-studies/README.md) &nbsp; · &nbsp; [**Visit RISHEH ↗**](https://www.rishehcompany.ir)
+<br /><br />
 
-<sub>BUSINESS-FIRST THINKING &nbsp; / &nbsp; DESIGN-LED ENGINEERING &nbsp; / &nbsp; CONNECTED OPERATIONS</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=23&amp;duration=3200&amp;pause=1250&amp;color=A6D4BE&amp;center=true&amp;vCenter=true&amp;width=880&amp;height=65&amp;lines=We+don't+believe+in+accidental+growth.;We+engineer+connected+digital+systems.;Products.+Automation.+Data.+AI.;Built+for+businesses+ready+to+evolve." />
+  <img width="90%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=23&amp;duration=3200&amp;pause=1250&amp;color=174A3A&amp;center=true&amp;vCenter=true&amp;width=880&amp;height=65&amp;lines=We+don't+believe+in+accidental+growth.;We+engineer+connected+digital+systems.;Products.+Automation.+Data.+AI.;Built+for+businesses+ready+to+evolve." alt="We engineer connected digital systems: products, automation, data, and AI." />
+</picture>
+
+<br />
+
+<strong>Independent digital systems studio for ambitious businesses.</strong><br />
+<em>We build the systems behind sustainable business growth.</em>
+
+<br /><br />
+
+<a href="https://www.rishehcompany.ir"><img alt="Visit RISHEH website" src="https://img.shields.io/badge/VISIT-OUR_WEBSITE-174A3A?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" /></a>
+<a href="https://github.com/rishehoffice/.github/blob/main/case-studies/README.md"><img alt="Read RISHEH case studies" src="https://img.shields.io/badge/EXPLORE-CASE_STUDIES-12304A?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
+<a href="https://github.com/rishehoffice/.github/blob/main/docs/INDUSTRIES_AND_SERVICES.md"><img alt="Browse industry solutions" src="https://img.shields.io/badge/EXPLORE-INDUSTRY_ATLAS-174A3A?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
+
+<br /><br />
+
+<sub>BUSINESS-FIRST THINKING &nbsp; · &nbsp; DESIGN-LED ENGINEERING &nbsp; · &nbsp; SYSTEMS THAT EVOLVE</sub>
 
 </div>
 
 ---
 
-<sub>01 / THE IDEA</sub>
+### ✨ Hello, we're RISHEH.
 
-## More software is not the goal. Better-connected systems are.
+## Great businesses deserve better-connected systems.
 
-Businesses rarely have a shortage of tools. They struggle when their customer experience, internal operations, data, and growth efforts cannot work together.
+A website disconnected from operations. A CRM that doesn't inform sales. Automations that move tasks but don't improve decisions.
 
-**RISHEH** helps organizations turn those disconnected parts into coherent digital products and operational systems. We start with a business problem, find the right user experience, then engineer the architecture and integrations that allow the solution to evolve.
+**The answer isn't more tools. It's a better system.**
 
-| UNDERSTAND | DESIGN & ENGINEER | CONNECT & IMPROVE |
-|:---|:---|:---|
-| Business workflows, users, constraints and priorities | Products, interfaces, APIs and maintainable architecture | Data, automations, operations and measurable iteration |
+We design and engineer digital products that connect **customer experience, business workflows, data, automation and measurable growth**—with the business problem guiding every technical decision.
 
-<br />
-
-<sub>02 / THE INDUSTRIES</sub>
-
-## Different businesses. Different systems.
-
-We organize our work by **business context**, not by a generic technology catalog.
-
-| Business environment | The system we help shape | Related evidence |
-|:---|:---|:---|
-| **Education & Schools** | Connected administration, academics, people and family experiences | [Hamyar School ↗](../case-studies/hamyar-school.md) |
-| **Health & Specialized Services** | Trusted content, service discovery and consultation workflows | [Entekhab ↗](../case-studies/entekhab-platform.md) |
-| **Commerce & Retail** | Storefronts, orders, integrations, digital fulfillment and conversion journeys | [RISHEH Pay ↗](../case-studies/risheh-pay.md) |
-| **Internal Operations & CRM** | Team workspaces, business processes, project context and data views | [RISHEH Core ↗](../case-studies/risheh-core.md) |
-| **AI & Automation** | Controlled agents, integrations, governed workflows and shared AI infrastructure | [AI Platform ↗](../case-studies/risheh-ai-platform.md) |
-| **Career & Professional Platforms** | Structured information discovery, matching, alerts and assistance | [NHS JobBot ↗](../case-studies/nhs-jobbot.md) |
-| **Real Estate & Investment** | Project discovery, structured listings and consultation journeys | [Solutions atlas ↗](../docs/INDUSTRIES_AND_SERVICES.md#real-estate-construction--investment) |
-| **Legal & Professional Services** | Expertise-led experiences, intake, editorial trust and workflow follow-up | [Solutions atlas ↗](../docs/INDUSTRIES_AND_SERVICES.md#professional-legal--advisory-services) |
-| **Cross-industry Web Experience** | Business-aware sites, design systems and safe generation tools | [Website Factory ↗](../case-studies/website-template-factory.md) |
-
-**[Explore the complete industry and service atlas →](../docs/INDUSTRIES_AND_SERVICES.md)**
+<table>
+<tr>
+<td width="33%" valign="top"><h3>🔍 01 / UNDERSTAND</h3><b>Find the real friction.</b><br /><br />Users, operating reality, business constraints and the decisions that matter.</td>
+<td width="33%" valign="top"><h3>🎨 02 / ENGINEER</h3><b>Make complexity usable.</b><br /><br />Thoughtful product experiences, robust software, clear boundaries and secure integrations.</td>
+<td width="34%" valign="top"><h3>📈 03 / EVOLVE</h3><b>Build for what comes next.</b><br /><br />Connected workflows, operational visibility and iteration grounded in evidence.</td>
+</tr>
+</table>
 
 <br />
 
-<sub>03 / SELECTED WORK</sub>
+### 🧭 WHERE WE WORK
 
-## Seven stories. Seven different system challenges.
+## One philosophy. Different business realities.
 
-The case studies follow the same editorial structure: **business challenge → solution direction → services applied → engineering decision → evidence**. They distinguish real source documentation from claims of production readiness or measurable client impact.
+<img width="100%" src="https://raw.githubusercontent.com/rishehoffice/.github/main/profile/assets/industry-showcase.svg" alt="Three illustrated industry themes: education, specialized services, and AI automation." />
+
+| Business environment | Systems and experiences | Our work |
+|:--|:--|:--|
+| 🎓 **Education & Schools** | Academics, people, administration, family journeys | [Hamyar School ↗](https://github.com/rishehoffice/.github/blob/main/case-studies/hamyar-school.md) |
+| 🩺 **Health & Specialized Services** | Trusted content, service discovery, consultation | [Entekhab Platform ↗](https://github.com/rishehoffice/.github/blob/main/case-studies/entekhab-platform.md) |
+| 🛍️ **Commerce & Retail** | E-commerce, transactions, fulfillment, growth | [RISHEH Pay ↗](https://github.com/rishehoffice/.github/blob/main/case-studies/risheh-pay.md) |
+| 🏢 **Enterprise Operations & CRM** | Workspaces, workflows, organizational context | [RISHEH Core ↗](https://github.com/rishehoffice/.github/blob/main/case-studies/risheh-core.md) |
+| 🤖 **AI & Automation** | Controlled agents, integrations, shared foundations | [RISHEH AI Platform ↗](https://github.com/rishehoffice/.github/blob/main/case-studies/risheh-ai-platform.md) |
+| 💼 **Career Technology** | Data ingestion, structured matching, alerts | [NHS JobBot ↗](https://github.com/rishehoffice/.github/blob/main/case-studies/nhs-jobbot.md) |
+| 🏗️ **Real Estate & Investment** | Project discovery, structured listings, lead journeys | [Solution approach ↗](https://github.com/rishehoffice/.github/blob/main/docs/INDUSTRIES_AND_SERVICES.md#real-estate-construction--investment) |
+| ⚖️ **Legal & Professional Services** | Trust-led websites, intake, consultation workflows | [Solution approach ↗](https://github.com/rishehoffice/.github/blob/main/docs/INDUSTRIES_AND_SERVICES.md#professional-legal--advisory-services) |
+| 🌐 **Web Experience & Product Design** | Business-aware websites, design systems, generation | [Website Factory ↗](https://github.com/rishehoffice/.github/blob/main/case-studies/website-template-factory.md) |
+
+<div align="center">
+
+**[🗺️ Explore every industry and service →](https://github.com/rishehoffice/.github/blob/main/docs/INDUSTRIES_AND_SERVICES.md)**
+
+</div>
+
+---
+
+### 📚 SELECTED WORK
+
+## Seven projects. Seven different challenges.
+
+<sub>BUSINESS PROBLEM → SOLUTION DIRECTION → ENGINEERING CHOICES → DOCUMENTED EVIDENCE</sub>
+
+<br /><br />
 
 <details open>
-<summary><b>01 — Hamyar School / Education systems</b></summary>
+<summary><b>🎓 01 — Hamyar School / Education Operating System</b></summary>
+<br />
+How can school leaders, teachers, students and families work across one connected environment without losing their distinct roles?
 
-A multi-role, multi-tenant school experience that explores the relationship between academic workflows, school operations, teachers, students and families.
+<b>Product:</b> Configurable multi-tenant school workflows and role-based experiences.<br />
+<b>Practice:</b> Product architecture · UX/UI · Data boundaries · Web engineering.
 
-**Capabilities:** Product architecture · Role-based UX · Web engineering · Data boundaries
+**[Explore the case study ↗](https://github.com/rishehoffice/.github/blob/main/case-studies/hamyar-school.md)**
 
-[Read case study ↗](../case-studies/hamyar-school.md)
 </details>
 
 <details>
-<summary><b>02 — Entekhab / Specialized services</b></summary>
+<summary><b>🩺 02 — Entekhab / Specialized Services Platform</b></summary>
+<br />
+How do trustworthy educational content, specialist discovery and consultation intake become one coherent user journey?
 
-Connecting educational content and expert service discovery to a clearer consultation journey in a Persian RTL experience.
+<b>Product:</b> Persian RTL service and content experience.<br />
+<b>Practice:</b> Service UX · Content architecture · PWA-minded design · Intake flows.
 
-**Capabilities:** UX/UI · Content architecture · Responsive web product · Intake flows
+**[Explore the case study ↗](https://github.com/rishehoffice/.github/blob/main/case-studies/entekhab-platform.md)**
 
-[Read case study ↗](../case-studies/entekhab-platform.md)
 </details>
 
 <details>
-<summary><b>03 — RISHEH Core / Enterprise operations</b></summary>
+<summary><b>🏢 03 — RISHEH Core / The Connected Company Workspace</b></summary>
+<br />
+What if tasks, discussions, documentation and engineering context didn't live in separate islands?
 
-A connected internal workspace designed around preserving context across conversations, tasks, knowledge and engineering work.
+<b>Product:</b> Internal collaboration and operations workspace.<br />
+<b>Practice:</b> Workflow design · Internal tools · Knowledge architecture · Integration.
 
-**Capabilities:** Operational design · Internal platforms · Workflow integration · Information architecture
+**[Explore the case study ↗](https://github.com/rishehoffice/.github/blob/main/case-studies/risheh-core.md)**
 
-[Read case study ↗](../case-studies/risheh-core.md)
 </details>
 
 <details>
-<summary><b>04 — RISHEH AI Platform / AI foundations</b></summary>
+<summary><b>🤖 04 — RISHEH AI Platform / Shared Intelligence Foundations</b></summary>
+<br />
+How can teams reuse AI capabilities without copying permissions, execution policies and integration contracts everywhere?
 
-An approach to shared AI contracts, integrations and governance boundaries without merging every product into the same execution system.
+<b>Product:</b> Shared AI interface and governance patterns.<br />
+<b>Practice:</b> AI engineering · Contracts · Integration architecture · Audit-aware workflows.
 
-**Capabilities:** AI engineering · System design · Integration contracts · Auditable workflows
+**[Explore the case study ↗](https://github.com/rishehoffice/.github/blob/main/case-studies/risheh-ai-platform.md)**
 
-[Read case study ↗](../case-studies/risheh-ai-platform.md)
 </details>
 
 <details>
-<summary><b>05 — NHS JobBot / Career technology</b></summary>
+<summary><b>💼 05 — NHS JobBot / Career Workflow Intelligence</b></summary>
+<br />
+How can medical job seekers navigate multiple vacancies, eligibility signals and alerts with less noise?
 
-Structured medical job discovery and application-support workflows, bringing together source normalization, inspectable matching, alerts and assistance.
+<b>Product:</b> Structured medical job discovery and application-support workflows.<br />
+<b>Practice:</b> Data normalization · Deterministic matching · Automation · AI assistance.
 
-**Capabilities:** Data pipelines · Automation · Rule-based matching · AI-assisted workflows
+**[Explore the case study ↗](https://github.com/rishehoffice/.github/blob/main/case-studies/nhs-jobbot.md)**
 
-[Read case study ↗](../case-studies/nhs-jobbot.md)
 </details>
 
 <details>
-<summary><b>06 — RISHEH Pay / Digital commerce</b></summary>
+<summary><b>💳 06 — RISHEH Pay / Digital Commerce & Fulfillment</b></summary>
+<br />
+What happens when payment succeeds but provider fulfillment fails? Commerce needs explicit transaction stages, not optimistic assumptions.
 
-A public engineering project built around a core commerce principle: receiving payment and fulfilling an order are different operational states.
+<b>Product:</b> Transaction-aware digital goods workflow.<br />
+<b>Practice:</b> FastAPI · Next.js · Order state machines · Reliability and security.
 
-**Capabilities:** Storefront and APIs · Transaction flows · Retry/idempotency · Security architecture
+**[Read case study ↗](https://github.com/rishehoffice/.github/blob/main/case-studies/risheh-pay.md)** · [Explore public source ↗](https://github.com/mahamirmh/risheh-pay)
 
-[Read case study ↗](../case-studies/risheh-pay.md) · [Public code ↗](https://github.com/mahamirmh/risheh-pay)
 </details>
 
 <details>
-<summary><b>07 — Website Template Factory / Design engineering</b></summary>
+<summary><b>🌐 07 — Website Template Factory / Design-to-Code Systems</b></summary>
+<br />
+What if generating a website began with business intent—and regeneration never silently erased a developer's edits?
 
-An industry-aware generator that moves from business intent to validated site specifications, deterministic code, and safe regeneration.
+<b>Product:</b> Business-aware specification, code generation and safe evolution.<br />
+<b>Practice:</b> Product design · Design systems · Next.js · Developer tooling.
 
-**Capabilities:** UX strategy · Design systems · Next.js engineering · Developer tooling
+**[Read case study ↗](https://github.com/rishehoffice/.github/blob/main/case-studies/website-template-factory.md)** · [Explore public source ↗](https://github.com/mahamirmh/Risheh-Website-Template-Factory)
 
-[Read case study ↗](../case-studies/website-template-factory.md) · [Public code ↗](https://github.com/mahamirmh/Risheh-Website-Template-Factory)
 </details>
-
-**[Browse the complete case study collection →](../case-studies/README.md)**
 
 <br />
 
-<sub>04 / HOW WE HELP</sub>
+<div align="center">
 
-## Strategy, systems and execution—together.
-
-| Service practice | What it brings to a business |
-|:---|:---|
-| **Digital Products & Websites** | Corporate sites, service experiences, web applications and operational dashboards |
-| **UX/UI & Product Strategy** | Discovery, journeys, information architecture, design systems and product definition |
-| **AI Agents & Workflow Automation** | Purpose-bound AI assistance, integration workflows and human oversight |
-| **CRM & Business Systems** | Intake, internal operations, multi-role workspaces and workflow orchestration |
-| **Commerce & Growth** | Storefront experiences, transaction architecture, SEO foundations and conversion journeys |
-| **Data & Intelligence** | Structured data, ingestion, analytics foundations and decision-support interfaces |
-
-Solutions depend on the real scope and needs of each business; this is **not** a claim that every capability is live in every published project.
-
-<br />
-
-<sub>05 / PUBLIC ENGINEERING EVIDENCE</sub>
-
-## Built in code. Explained with care.
-
-Selected public repositories are currently hosted on founder [@mahamirmh](https://github.com/mahamirmh). We do **not** link private engineering repositories as public source.
-
-| Open repository | What you can inspect |
-|:---|:---|
-| [RISHEH Industry Solutions & Corporate Profile](https://github.com/mahamirmh/RISHEH-Industry-Solutions-Corporate-Profile) | The public industry-led portfolio and bilingual company publication |
-| [Website Template Factory](https://github.com/mahamirmh/Risheh-Website-Template-Factory) | Business-aware design specifications, generation and regeneration tooling |
-| [RISHEH Pay](https://github.com/mahamirmh/risheh-pay) | Transaction-oriented commerce architecture and operational runbooks |
-| [Universal AI Skills](https://github.com/mahamirmh/risheh-claude-skills) | Shared AI skill workflows with multi-assistant adapters |
-| [Universal Downloader](https://github.com/mahamirmh/rishehdownloader) | Multi-platform download manager source and platform documentation |
-
-**Our publishing rule:** No invented client testimonials, revenue lifts, conversion rates, deployment status, or performance claims. A repository demonstrates documented work; it does not, by itself, prove a production outcome. Some selected studies cover internal RISHEH products or solution explorations rather than paid customer projects.
-
-<br />
-
-<sub>06 / LET'S BUILD</sub>
-
-## Start with the business problem.
-
-Have a product to build, systems to connect, or an operational process that needs a better foundation? We approach every engagement through the same lens: **understand deeply, engineer carefully, and keep improving**.
-
-[**RISHEH website ↗**](https://www.rishehcompany.ir) &nbsp; · &nbsp; [**Industry solutions ↗**](../docs/INDUSTRIES_AND_SERVICES.md) &nbsp; · &nbsp; [**Case studies ↗**](../case-studies/README.md)
-
----
-
-<div dir="rtl" align="center">
-
-**ریشه — شریک هوشمند رشد پایدار کسب‌وکار**
-
-ما رشد تصادفی را باور نداریم. ما تجربه مشتری، محصول، داده و عملیات را به یک سیستم منسجم تبدیل می‌کنیم.
-
-[**دریافت دفترچه فارسی ریشه ↗**](https://github.com/mahamirmh/RISHEH-Industry-Solutions-Corporate-Profile/blob/main/Risheh_Business_Sectors_FA_Ravi.pdf)
+**[📖 Browse the full case study library →](https://github.com/rishehoffice/.github/blob/main/case-studies/README.md)**
 
 </div>
 
-<div align="center"><sub>RISHEH · STRATEGY × PRODUCT × ENGINEERING × INTELLIGENCE</sub></div>
+---
+
+### 🧩 WHAT WE BUILD
+
+## From one idea to a connected business system.
+
+| Practice | What it makes possible |
+|:--|:--|
+| 🌐 **Web Products & Digital Platforms** | Websites, custom web apps, customer portals, business dashboards |
+| 🎨 **Product Strategy & UX/UI** | Research, user journeys, information architecture, interfaces and design systems |
+| 🤖 **AI Agents & Automation** | Tool-connected assistants, process automation, integrations and human oversight |
+| 🧱 **CRM & Internal Operations** | Intake journeys, scoped workspaces, team workflows, business systems |
+| 🛒 **Commerce & Growth** | E-commerce, transactions, content/SEO foundations and conversion experiences |
+| 📊 **Data & Intelligence** | Data pipelines, structured records, analytics foundations and decision support |
+
+<sub>Capabilities are combined for each engagement. A planned capability is not a promise of an already-deployed product.</sub>
+
+---
+
+### 💚 WHY RISHEH?
+
+<table>
+<tr>
+<td width="50%" valign="top"><b>🧠 Business-first architecture</b><br /><br />We design around outcomes and operating reality, not fashionable stacks.</td>
+<td width="50%" valign="top"><b>✨ Intentional product experience</b><br /><br />Minimal, accessible interfaces with a purpose behind every decision.</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><b>🔗 Connected by design</b><br /><br />Web, data, business operations and AI are considered as one ecosystem.</td>
+<td width="50%" valign="top"><b>🛡️ Evidence over hype</b><br /><br />We distinguish implemented work, product direction and independently verified outcomes.</td>
+</tr>
+</table>
+
+---
+
+### 💻 OPEN ENGINEERING
+
+## Real repositories. No imaginary numbers.
+
+Selected public code currently lives under founder **[@mahamirmh](https://github.com/mahamirmh)**.
+
+| Public repository | Explore |
+|:--|:--|
+| 📗 [RISHEH Industry Solutions & Corporate Profile](https://github.com/mahamirmh/RISHEH-Industry-Solutions-Corporate-Profile) | Business sectors and the bilingual corporate publication |
+| 🏭 [Website Template Factory](https://github.com/mahamirmh/Risheh-Website-Template-Factory) | Industry-aware website specifications and generation |
+| 💳 [RISHEH Pay](https://github.com/mahamirmh/risheh-pay) | Commerce architecture, transaction handling and deployment documentation |
+| 🧠 [Universal AI Skills](https://github.com/mahamirmh/risheh-claude-skills) | Reusable AI skill workflows |
+| ⬇️ [Universal Downloader](https://github.com/mahamirmh/rishehdownloader) | Multi-platform downloader source and documentation |
+
+<sub>🔎 Our publishing standard: No fabricated impact metrics, client testimonials or production-readiness claims. Some case studies are RISHEH-built/internal initiatives rather than commissioned client engagements. Private source code and client data remain private.</sub>
+
+---
+
+<div align="center">
+
+### 🚀 HAVE A CHALLENGE WORTH SOLVING?
+
+## Let's engineer what's next.
+
+**Great digital experiences are only the beginning. We build the systems behind them.**
+
+<br />
+
+<a href="https://www.rishehcompany.ir"><img alt="Discover RISHEH" src="https://img.shields.io/badge/VISIT-RISHEH-174A3A?style=for-the-badge" /></a>
+<a href="https://github.com/rishehoffice/.github/blob/main/case-studies/README.md"><img alt="Read our case studies" src="https://img.shields.io/badge/EXPLORE-OUR_WORK-12304A?style=for-the-badge" /></a>
+
+<br /><br />
+
+---
+
+<div dir="rtl">
+
+### 🌱 ریشه — شریک هوشمند رشد پایدار کسب‌وکار
+
+**ما رشد تصادفی را باور نداریم.**
+
+ما تجربه مشتری، عملیات، داده، محصول و اتوماسیون را به یک سیستم منسجم تبدیل می‌کنیم.
+
+[📘 دفترچه معرفی فارسی ریشه](https://github.com/mahamirmh/RISHEH-Industry-Solutions-Corporate-Profile/blob/main/Risheh_Business_Sectors_FA_Ravi.pdf)
+
+</div>
+
+<sub>© RISHEH · BUILT WITH INTENTION · STRATEGY × PRODUCT × ENGINEERING × INTELLIGENCE</sub>
+
+</div>
