@@ -1,25 +1,32 @@
 # RISHEH — GitHub Organization Profile
 
-Welcome to the public profile configuration of **[RISHEH](https://github.com/rishehoffice)**.
+This public repository defines [RISHEH's GitHub organization Overview](https://github.com/rishehoffice), the industry-based service atlas, and the evidence-grounded case study collection.
 
-This public repository supplies the content shown on the [RISHEH organization Overview](https://github.com/rishehoffice) page.
+## Directory map
 
-## Structure
+| Location | Purpose |
+|:---|:---|
+| [profile/README.md](profile/README.md) | Public GitHub organization Overview |
+| [profile/assets/risheh-hero.svg](profile/assets/risheh-hero.svg) | Branded editorial profile header |
+| [profile/assets/risheh-avatar-concept.svg](profile/assets/risheh-avatar-concept.svg) | Optional avatar concept; not the approved corporate logo |
+| [docs/INDUSTRIES_AND_SERVICES.md](docs/INDUSTRIES_AND_SERVICES.md) | Solutions organized by business type, with verified project references |
+| [case-studies/README.md](case-studies/README.md) | Case study index and evidence classification |
+| [docs/ORGANIZATION_SETTINGS.md](docs/ORGANIZATION_SETTINGS.md) | Copy-ready organization name, description, website and avatar instructions |
 
-- [Organization profile](profile/README.md) — company introduction, practices, industries and public projects.
-- [Brand header](profile/assets/risheh-hero.svg) — original RISHEH branded artwork.
+## Editorial principles
 
-## Editing guidelines
+1. **Business-first:** Describe the business problem before listing technologies.
+2. **Evidence over hype:** Distinguish documented engineering work, reference implementations, live releases and measurable outcomes.
+3. **Private stays private:** Do not disclose client data, private code, confidential architecture or deployment information.
+4. **No invented proof:** Never fabricate performance statistics, customer testimonials, ratings or success claims.
+5. **Maintainable structure:** Keep case study links stable and use industry atlas as the canonical overview of services.
 
-1. Update the public-facing profile in profile/README.md.
-2. Link only to verified, publicly accessible repositories. Do not expose private code, customer details, credentials or internal deployment information.
-3. Describe documented prototypes, experiments and deployed products accurately; repository visibility does not prove production readiness.
-4. Keep the branding consistent with RISHEH's public website and approved identity.
-5. Check the rendered organization Overview page after modifications.
+## Updating the organization profile
 
-**Website:** [rishehcompany.ir](https://www.rishehcompany.ir)  
-**Industry portfolio:** [RISHEH Industry Solutions & Corporate Profile](https://github.com/mahamirmh/RISHEH-Industry-Solutions-Corporate-Profile)
+The organization Overview is rendered from **profile/README.md**, not this root README. Organization-level display name, description, URL and avatar are edited separately in [GitHub settings](https://github.com/organizations/rishehoffice/settings/profile).
+
+See the [settings guide](docs/ORGANIZATION_SETTINGS.md).
 
 ---
 
-*RISHEH · Strategy × Product × Engineering × Intelligence*
+**RISHEH** · [Website](https://www.rishehcompany.ir) · [GitHub Organization](https://github.com/rishehoffice)
