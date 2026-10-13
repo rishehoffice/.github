@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="450" viewBox="0 0 1200 450" role="img" aria-labelledby="title desc">
+<title id="title">RISHEH — We engineer connected growth</title>
+<desc id="desc">An editorial brand banner in deep navy and forest green, showing an abstract interconnected root network.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D2334"/><stop offset=".62" stop-color="#113C37"/><stop offset="1" stop-color="#194839"/></linearGradient>
+ <linearGradient id="line" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#A2C8B9"/><stop offset="1" stop-color="#E4E7C9"/></linearGradient>
+ <pattern id="mesh" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#F6F7ED" stroke-opacity=".055" stroke-width=".7"/></pattern>
+ <radialGradient id="glow"><stop offset="0" stop-color="#74B5A2" stop-opacity=".32"/><stop offset="1" stop-color="#74B5A2" stop-opacity="0"/></radialGradient>
+ <clipPath id="inside"><rect width="1200" height="450" rx="0"/></clipPath>
+</defs>
+<style>
+@keyframes pulse{0%,100%{opacity:.6}50%{opacity:1}}
+@keyframes trace{to{stroke-dashoffset:0}}
+@keyframes drift{0%,100%{transform:translateY(0px)}50%{transform:translateY(-6px)}}
+.root{stroke-dasharray:none;stroke-dashoffset:0}
+.node{animation:pulse 3.7s ease-in-out infinite}
+.network{animation:drift 7s ease-in-out infinite;transform-origin:870px 220px}
+@media(prefers-reduced-motion:reduce){.root,.node,.network{animation:none}.root{stroke-dashoffset:0}}
+</style>
+<g clip-path="url(#inside)">
+ <rect width="1200" height="450" fill="url(#bg)"/><rect width="1200" height="450" fill="url(#mesh)"/>
+ <circle cx="891" cy="231" r="300" fill="url(#glow)"/>
+ <path d="M53 51H1147" stroke="#D1E4DC" stroke-opacity=".20"/>
+ <path d="M53 402H1147" stroke="#D1E4DC" stroke-opacity=".20"/>
+ <g fill="#DCE6DA" font-family="Arial,Helvetica,sans-serif">
+  <text x="62" y="93" font-size="19" letter-spacing="7" font-weight="700">RISHEH</text>
+  <text x="63" y="135" font-size="10" letter-spacing="3" fill="#AFCCBE">INDEPENDENT DIGITAL SYSTEMS STUDIO</text>
+  <text x="59" y="213" font-size="52" font-weight="700" letter-spacing="-1.5" fill="#F4F4E8">WE ENGINEER</text>
+  <text x="59" y="274" font-size="52" font-weight="700" letter-spacing="-1.5" fill="#F4F4E8">CONNECTED</text>
+  <text x="59" y="335" font-size="52" font-weight="700" letter-spacing="-1.5" fill="#B5D5C1">GROWTH.</text>
+  <text x="62" y="381" font-size="13" letter-spacing="1.1" fill="#DFE8DD">STRATEGY  /  PRODUCT  /  ENGINEERING  /  INTELLIGENCE</text>
+  <text x="60" y="425" font-size="10" letter-spacing="3" fill="#AFCCBE">BUILT WITH INTENTION</text>
+  <text x="1036" y="425" font-size="10" letter-spacing="2.3" fill="#AFCCBE">BASED IN IRAN</text>
+ </g>
+ <path d="M695 57V392" stroke="#E4E7C9" stroke-opacity=".13"/>
+ <g class="network" fill="none" stroke="url(#line)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+  <path class="root" d="M876 120V197M876 197C876 242 825 258 785 302M876 197C876 248 914 262 972 300M876 197C876 255 876 287 878 336"/>
+  <path class="root" d="M876 235C832 226 819 180 794 147M876 235C930 222 934 170 984 143" stroke-width="1.7" stroke-opacity=".8"/>
+  <path class="root" d="M785 302C751 321 735 342 720 377M785 302C810 336 802 346 794 375M972 300C995 329 1003 354 1034 380M972 300C946 331 950 352 941 378M878 336C860 359 857 366 855 386M878 336C892 359 902 372 915 389" stroke-opacity=".7"/>
+  <path class="root" d="M794 147L766 102M984 143L1019 99" stroke-opacity=".65" stroke-width="1.4"/>
+  <circle cx="876" cy="119" r="25" stroke-opacity=".82" stroke-width="1.3"/>
+  <circle cx="876" cy="119" r="42" stroke-opacity=".24" stroke-width="1"/>
+ </g>
+ <g fill="#E4E7C9"><circle class="node" cx="876" cy="119" r="7"/><circle cx="876" cy="197" r="6"/><circle class="node" cx="785" cy="302" r="5"/><circle class="node" cx="972" cy="300" r="5"/><circle cx="878" cy="336" r="4"/><circle cx="794" cy="147" r="4"/><circle cx="984" cy="143" r="4"/></g>
+ <g fill="#9FC5B4" opacity=".7"><circle cx="720" cy="377" r="3"/><circle cx="794" cy="375" r="3"/><circle cx="1034" cy="380" r="3"/><circle cx="941" cy="378" r="3"/><circle cx="855" cy="386" r="3"/><circle cx="915" cy="389" r="3"/><circle cx="766" cy="102" r="3"/><circle cx="1019" cy="99" r="3"/></g>
+</g>
+</svg>
