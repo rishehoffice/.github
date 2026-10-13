@@ -24,9 +24,9 @@
 
 <br /><br />
 
-<a href="https://www.rishehcompany.ir"><img alt="Visit RISHEH website" src="https://img.shields.io/badge/🌍_OUR_WEBSITE-174A3A?style=for-the-badge" /></a>
-<a href="https://github.com/rishehoffice/.github/blob/main/case-studies/README.md"><img alt="Read RISHEH case studies" src="https://img.shields.io/badge/📚_CASE_STUDIES-12304A?style=for-the-badge" /></a>
-<a href="https://github.com/rishehoffice/.github/blob/main/docs/INDUSTRIES_AND_SERVICES.md"><img alt="Browse industry solutions" src="https://img.shields.io/badge/🧭_INDUSTRY_ATLAS-174A3A?style=for-the-badge" /></a>
+<a href="https://www.rishehcompany.ir"><img alt="Visit RISHEH website" src="https://img.shields.io/badge/VISIT-OUR_WEBSITE-174A3A?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" /></a>
+<a href="https://github.com/rishehoffice/.github/blob/main/case-studies/README.md"><img alt="Read RISHEH case studies" src="https://img.shields.io/badge/EXPLORE-CASE_STUDIES-12304A?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
+<a href="https://github.com/rishehoffice/.github/blob/main/docs/INDUSTRIES_AND_SERVICES.md"><img alt="Browse industry solutions" src="https://img.shields.io/badge/EXPLORE-INDUSTRY_ATLAS-174A3A?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
 
 <br /><br />
 
@@ -244,8 +244,8 @@ Selected public code currently lives under founder **[@mahamirmh](https://github
 
 <br />
 
-<a href="https://www.rishehcompany.ir"><img alt="Discover RISHEH" src="https://img.shields.io/badge/EXPLORE_RISHEH-174A3A?style=for-the-badge" /></a>
-<a href="https://github.com/rishehoffice/.github/blob/main/case-studies/README.md"><img alt="Read our case studies" src="https://img.shields.io/badge/VIEW_OUR_WORK-12304A?style=for-the-badge" /></a>
+<a href="https://www.rishehcompany.ir"><img alt="Discover RISHEH" src="https://img.shields.io/badge/VISIT-RISHEH-174A3A?style=for-the-badge" /></a>
+<a href="https://github.com/rishehoffice/.github/blob/main/case-studies/README.md"><img alt="Read our case studies" src="https://img.shields.io/badge/EXPLORE-OUR_WORK-12304A?style=for-the-badge" /></a>
 
 <br /><br />
 
